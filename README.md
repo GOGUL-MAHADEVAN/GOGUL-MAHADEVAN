@@ -1,10 +1,10 @@
 
 # 💫 About Me:
-<br>I am a student at Madras Institute of Technology<br>I'm currently pursuing Computer Science and Engineering<br> I'm looking to collaborate on new projects and I am always ready to learn new things<br>I'm looking for help with new projects<br>I'm currently learning C, C++, java and Python languages<br>I like reading books
+<br>⭐I am a student at Madras Institute of Technology<br>⭐I'm currently pursuing Computer Science and Engineering<br>⭐ I'm looking to collaborate on new projects and I am always ready to learn new things<br>I'm currently learning C, C++, java and Python languages<br>I like playing chess.
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gogulsparks1124@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gogulmahadevan1124@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
