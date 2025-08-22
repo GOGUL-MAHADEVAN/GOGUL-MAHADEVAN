@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>⭐I am a student at Madras Institute of Technology<br>⭐I'm currently pursuing Computer Science and Engineering<br>⭐ I'm looking to collaborate on new projects and I am always ready to learn new things<br>I'm currently learning C, C++, java and Python languages<br>I like playing chess.
+<br>⭐I am a student at Madras Institute of Technology<br>⭐I'm currently pursuing Computer Science and Engineering<br>⭐ I'm looking to collaborate on new projects and I am always ready to learn new things<br>⭐I'm currently learning C, C++, java and Python languages<br>⭐I like playing chess.
 
 
 ## 🌐 Socials:
